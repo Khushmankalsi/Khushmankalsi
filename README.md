@@ -1,16 +1,46 @@
-<h1>🖐Hello User</h1>
-🚀I am  Khushman Singh Kalsi <br>
-🏹 A Full Stack Web Developer <br>
-⚡Ready with knowlegde of HTML, CSS, JavaScript, Bootstrap, Tailwind, Php, Python, Mysql. <br>
-📗 Studying at Btech CSE at Baba Banda Singh Bahadhur Engineering College, Fatehgarh Sahib <br>
-📍From Ludhiana, Punjab <br><br>
+# 👋 Hi there, I'm Khushman Singh Kalsi
 
-<h1>♚Contact me:</h1>
-⚜kskalsi0108@gmail.com <br><br>
+🎓 B.Tech CSE | 🧠 Full-Stack Developer | 🚀 Startup Builder | 💻 Passionate Technologist
 
-<h1>🤝Let's Connect:</h1>
-💡Interested to work together with you on both small and mega projects as i wanna grow my experience and skill as a developer 
+Welcome to my GitHub profile! I'm a self-driven developer from Ludhiana, Punjab, currently studying at **Baba Banda Singh Bahadur Engineering College (BBSBEC)**. I enjoy building full-stack applications, experimenting with emerging technologies, and solving real-world problems through code.
 
+---
 
+## 🚀 About Me
 
+- 🔭 Currently building **Web Synq Hub** – an IT solutions firm delivering web & software development, UI/UX, and digital strategy.
+- 🧠 Hackathon Winner – Built **Zerobin**, a smart waste management app at RIMT 2025 Hackathon.
+- 🌐 Actively working with clients on website redesigns, CRM systems, and automation tools.
+- 🛠️ Creator of **Alfred** – an assistant project to manage files via voice commands.
+- 🧪 Working on **InnoVault** – a decentralized innovation platform with tokenized rewards and DAO governance.
+- 🎯 4+ years of freelance & development experience.
 
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+`PHP` `Python` `JavaScript` `C++`  
+
+**Full Stack & Frameworks:**  
+`MERN Stack (MongoDB, Express.js, React, Node.js)`  
+`Laravel` `Bootstrap` `Gsap` `Tailwind`
+
+**Tools & Platforms:**  
+`MySQL` `Firebase` `Photoshop` `Git` `Figma` `Postman`
+
+**Other Interests:**  
+Voice Assistants • Automation • Cybersecurity • SaaS & CRM Platforms
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: [kalsi.co.in](https://kalsi.co.in)
+- 💼 Company: [Web Synq Hub](https://websynqhub.com)
+- 📧 Email: khushmankalsi.code@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/khushman-kalsi](https://linkedin.com/in/khushman-kalsi)
+
+---
+
+### ❤️ Let's build something innovative together!
