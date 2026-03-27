@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a self-driven developer from Ludhiana, Punjab,
 ## 🚀 About Me
 
 - 🔭 Currently building **Web Synq Hub** – an IT solutions firm delivering web & software development, UI/UX, and digital strategy.
-- 🧠 Hackathon Winner – Built **Zerobin**, a smart waste management app at RIMT 2025 Hackathon.
+- 🧠 Hackathon Winner – Built **Alfred**, a Smart AI Assitant at GGI 2024 Hackathon.
 - 🌐 Actively working with clients on website redesigns, CRM systems, and automation tools.
 - 🛠️ Creator of **Alfred** – an assistant project to manage files via voice commands.
 - 🧪 Working on **InnoVault** – a decentralized innovation platform with tokenized rewards and DAO governance.
